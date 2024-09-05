@@ -1,101 +1,103 @@
-*{
-    font-family:Arial, Helvetica, sans-serif;
+* {
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     background-color: aliceblue;
 
 }
 
-a{
+a {
     color: black;
 }
 
-li{
+li {
     list-style-type: none;
     display: inline-flex;
-    padding: 0px 20px 0px 20px ;
+    padding: 0px 20px 0px 20px;
 }
 
-header{
+header {
     background-color: aliceblue;
 }
 
-.header__link-itens{
+.header__link-itens {
     color: black;
-    font-size: 20px; 
+    font-size: 20px;
     padding: 0px;
 }
-#header__link{
+
+#header__link {
     justify-content: center;
     display: flex;
     padding-left: 40px;
     font-weight: bold;
-    
+
 }
-.logo_{
+
+.logo_ {
     margin: 10px;
     padding: auto;
     color: black;
     padding: 0px;
 }
 
-.atras_alem{
+.atras_alem {
     text-align: center;
     margin-bottom: 20px;
-    }
-    
-    .atras_alem1{
-        display: inline-block;
-        background-color: rgb(161, 39, 39);
-        width: 20px;
-        height: 20px;
-        border-radius: 90%;
-        color: rgb(161, 39, 39);
-     
-    }
-    
-    .atras_alem2{   
-        display: inline-block;
-        background-color: rgb(29, 35, 152);
-        width: 20px;
-        height: 20px;
-        border-radius: 90%;
-        color: rgb(29, 35, 152);
-    
-    }
-    
-    .atras_alem3{
-        display: inline-block;
-        background-color: rgb(222, 183, 40);
-        width: 20px;
-        height: 20px;
-        border-radius: 90%;
-        color: rgb(222, 183, 40);
-    }
+}
 
-.evento{
+.atras_alem1 {
+    display: inline-block;
+    background-color: rgb(161, 39, 39);
+    width: 20px;
+    height: 20px;
+    border-radius: 90%;
+    color: rgb(161, 39, 39);
+
+}
+
+.atras_alem2 {
+    display: inline-block;
+    background-color: rgb(29, 35, 152);
+    width: 20px;
+    height: 20px;
+    border-radius: 90%;
+    color: rgb(29, 35, 152);
+
+}
+
+.atras_alem3 {
+    display: inline-block;
+    background-color: rgb(222, 183, 40);
+    width: 20px;
+    height: 20px;
+    border-radius: 90%;
+    color: rgb(222, 183, 40);
+}
+
+.evento {
     display: flex;
     justify-content: center;
     font-weight: bold;
-   
-    }
 
-.legal{
+}
+
+.legal {
     width: 700px;
-    border-top: dotted 1.6px black ;
+    border-top: dotted 1.6px black;
     padding: 16px 10px;
 }
 
-.legal1{
+.legal1 {
     width: 700px;
-    border-top: dotted 1.6px black ;
-    border-bottom: dotted 1.6px black ;
+    border-top: dotted 1.6px black;
+    border-bottom: dotted 1.6px black;
     padding: 16px 10px;
 }
 
 
 
-    
-.cool{  
+
+.cool {
     margin-left: 40px;
     height: 50px;
     width: 70px;
@@ -104,7 +106,7 @@ header{
 
 }
 
-.cool1{  
+.cool1 {
     margin-left: 95px;
     height: 50px;
     width: 70px;
@@ -113,7 +115,7 @@ header{
 
 }
 
-.cool2{  
+.cool2 {
     margin-left: 127px;
     height: 50px;
     width: 70px;
@@ -122,7 +124,7 @@ header{
 
 }
 
-.cool3{  
+.cool3 {
     margin-left: 133px;
     height: 50px;
     width: 70px;
@@ -132,27 +134,28 @@ header{
 
 
 
-.local{
-    padding-left: 18px;   
-}
-.local_sp{
-    padding-left: 20px;   
+.local {
+    padding-left: 18px;
 }
 
+.local_sp {
+    padding-left: 20px;
+}
 
 
-.cidade{
+
+.cidade {
     padding-left: 120px;
 }
 
-.cidade1{
+.cidade1 {
     padding-left: 120px;
 }
 
-.cidade2{
+.cidade2 {
     padding-left: 24px;
 }
 
-.cidade3{
+.cidade3 {
     padding-left: 27px;
 }
